@@ -1,2 +1,2 @@
 # Bakery_Production_Visualization
-This is a fun little project using fabricated bakery data to show visualizations in python using both seaborn and matplotlib packages. 
+This is a fun little project using fabricated bakery data to show visualizations in python using both seaborn and matplotlib packages. I had this fun idea since I work in a bakery! I thought it would be really fun to create a fake bakery dataset to visualize it, so that the information could inspire how in real life this could be super useful in creating a steady production process of how much of each items are needed based on numbers sold in previous weeks. This is a fun combination for my love of cake making and data! I hope you enjoy!
